@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{857AEB32-F370-4383-9A14-A122CD22BD8F}|App.API\\App.API.csproj|c:\\users\\omerb\\desktop\\\u0130lk g\u00F6z a\u011Fr\u0131mdaki c# \u00F6rnekleri\\net-8-api-web\\app.api\\app.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{857AEB32-F370-4383-9A14-A122CD22BD8F}|App.API\\App.API.csproj|solutionrelative:app.api\\app.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.API",
+              "DocumentMoniker": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\App.API\\App.API.csproj",
+              "RelativeDocumentMoniker": "App.API\\App.API.csproj",
+              "ToolTip": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\App.API\\App.API.csproj",
+              "RelativeToolTip": "App.API\\App.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T15:57:51.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

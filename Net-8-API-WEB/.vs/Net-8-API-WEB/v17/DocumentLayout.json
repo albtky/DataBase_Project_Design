@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60B1DBEE-4830-4EFA-A62C-9FE78E25F16F}|Repositories\\App.Repositories.csproj|c:\\users\\omerb\\desktop\\\u0130lk g\u00F6z a\u011Fr\u0131mdaki c# \u00F6rnekleri\\net-8-api-web\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B1DBEE-4830-4EFA-A62C-9FE78E25F16F}|Repositories\\App.Repositories.csproj|solutionrelative:repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B1DBEE-4830-4EFA-A62C-9FE78E25F16F}|Repositories\\App.Repositories.csproj|c:\\users\\omerb\\desktop\\\u0130lk g\u00F6z a\u011Fr\u0131mdaki c# \u00F6rnekleri\\net-8-api-web\\repositories\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B1DBEE-4830-4EFA-A62C-9FE78E25F16F}|Repositories\\App.Repositories.csproj|solutionrelative:repositories\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B1DBEE-4830-4EFA-A62C-9FE78E25F16F}|Repositories\\App.Repositories.csproj|c:\\users\\omerb\\desktop\\\u0130lk g\u00F6z a\u011Fr\u0131mdaki c# \u00F6rnekleri\\net-8-api-web\\repositories\\productconifuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B1DBEE-4830-4EFA-A62C-9FE78E25F16F}|Repositories\\App.Repositories.csproj|solutionrelative:repositories\\productconifuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B1DBEE-4830-4EFA-A62C-9FE78E25F16F}|Repositories\\App.Repositories.csproj|c:\\users\\omerb\\desktop\\\u0130lk g\u00F6z a\u011Fr\u0131mdaki c# \u00F6rnekleri\\net-8-api-web\\repositories\\app.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60B1DBEE-4830-4EFA-A62C-9FE78E25F16F}|Repositories\\App.Repositories.csproj|solutionrelative:repositories\\app.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\App.API\\App.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.API\\App.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductConifuration.cs",
+              "DocumentMoniker": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\Repositories\\ProductConifuration.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductConifuration.cs",
+              "ToolTip": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\Repositories\\ProductConifuration.cs",
+              "RelativeToolTip": "Repositories\\ProductConifuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:29:03.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\Repositories\\Product.cs",
+              "RelativeDocumentMoniker": "Repositories\\Product.cs",
+              "ToolTip": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\Repositories\\Product.cs",
+              "RelativeToolTip": "Repositories\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:17:17.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "Repositories\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:16:39.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.Repositories",
+              "DocumentMoniker": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\Repositories\\App.Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\App.Repositories.csproj",
+              "ToolTip": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\Repositories\\App.Repositories.csproj",
+              "RelativeToolTip": "Repositories\\App.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T16:15:54.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.API.csproj",
+              "DocumentMoniker": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\App.API\\App.API.csproj",
+              "RelativeDocumentMoniker": "App.API\\App.API.csproj",
+              "ToolTip": "C:\\Users\\omerb\\Desktop\\\u0130lk G\u00F6z a\u011Fr\u0131mdaki C# \u00D6rnekleri\\Net-8-API-WEB\\App.API\\App.API.csproj",
+              "RelativeToolTip": "App.API\\App.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T15:57:51.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
